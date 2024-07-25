@@ -1,6 +1,7 @@
 # How to use as static
 
 ```bash
+- yarn install
 - yarn build
 ```
 
